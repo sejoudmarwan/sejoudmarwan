@@ -13,6 +13,8 @@
 <tr>
 <td valign="top" width="60%">
 
+<br>
+
 💙 Software Engineering graduate from Egypt.
 
 💻 Passionate about backend development.
