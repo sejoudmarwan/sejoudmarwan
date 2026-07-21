@@ -57,7 +57,7 @@
 ### Development Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=vscode,idea" />
 </p>
 
 ### Workflow & Collaboration
@@ -87,9 +87,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="mailto:sagymomarwan@gmail.com">
-  <img src="https://img.shields.io/badge/sagymomarwan%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:sagymomarwan@gmail.com"> 
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> 
   </a>
+  
 </p>
 
 ---
