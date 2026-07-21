@@ -9,7 +9,7 @@
 
 ## 👩‍💻 About Me
 
-<table>
+<table align="center">
 <tr>
 <td valign="top" width="60%">
 
@@ -88,7 +88,7 @@
   </a>
 
   <a href="mailto:sagymomarwan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/sagymomarwan%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
